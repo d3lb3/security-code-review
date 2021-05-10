@@ -1,6 +1,6 @@
-# Secure Code Review Resources
+# Security Code Review Resources
 
-My personal collection of resources (mostly tools and training material) for source code security audits. Updated gradually as I discover interesting material on the subject.
+My personal collection of resources (mostly tools and training materials) for source code security audits. Updated gradually as I discover interesting material on the subject.
 
 * [Training Materials](#training-materials)
   * [Learning Resources](#learning-resources)
