@@ -46,4 +46,4 @@ My personal collection of resources (mostly tools and training material) for sou
 
 - [Michaela Greiler's checklist](https://github.com/mgreiler/secure-code-review-checklist)
 - [Aggregated checklist from various sources](https://github.com/softwaresecured/secure-code-review-checklist)
-- [My own custom list based on the above resources](./Security Code Review Checklist.xlsx)
+- [My own custom list based on the above resources](https://github.com/JulienBedel/security-code-review/blob/main/Security%20Code%20Review%20Checklist.xlsx)
