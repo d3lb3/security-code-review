@@ -2,7 +2,17 @@
 
 My personal collection of resources (mostly tools and training material) for source code security audits. Updated gradually as I discover interesting material on the subject.
 
-## Training Material
+* [Training Materials](#training-materials)
+  * [Learning Resources](#learning-resources)
+  * [Vulnerable Apps](#vulnerable-apps)
+  * [Learning Platforms](#learning-platforms)
+* [Tools](#tools)
+  * [Static Application Security Testing (SAST) Tools](#static-application-security-testing-sast-tools)
+  * [Grep-based Tools](#grep-based-tools)
+  * [Frameworks](#frameworks)
+* [Checklists](#checklists)
+
+## Training Materials
 
 ### Learning Resources
 
