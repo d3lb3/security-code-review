@@ -4,8 +4,8 @@ My personal collection of resources (mostly tools and training materials) for so
 
 * [**Training Materials**](#training-materials)
   * [Learning Resources](#learning-resources)
-  * [Vulnerable Apps](#vulnerable-apps)
   * [Learning Platforms](#learning-platforms)
+  * [Vulnerable Apps](#vulnerable-apps)
 * [**Tools**](#tools)
   * [Static Application Security Testing (SAST) Tools](#static-application-security-testing-sast-tools)
   * [Grep-based Tools](#grep-based-tools)
