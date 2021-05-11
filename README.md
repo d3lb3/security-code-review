@@ -57,4 +57,4 @@ My personal collection of resources (mostly tools and training materials) for so
 - [Michaela Greiler's checklist](https://github.com/mgreiler/secure-code-review-checklist)
 - [Aggregated checklist from various sources](https://github.com/softwaresecured/secure-code-review-checklist)
 - [OWASP's Code Review Checklist](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf#page=197)
-- [My own custom list based on the above resources](https://github.com/JulienBedel/security-code-review/blob/main/Security%20Code%20Review%20Checklist.xlsx)
+- [My own custom list based on the above resources](https://github.com/JulienBedel/Security_Code_Review_Helper.xlsx)
