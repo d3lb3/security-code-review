@@ -45,6 +45,7 @@ My personal collection of resources (mostly tools and training materials) for so
 
 - [graudit](https://github.com/wireghoul/graudit) : find very specific vulnerabilities based on regular expressions, a lot of false negatives but can be extended with your own regexs.
 - [crass](https://github.com/floyd-fuh/crass) : source code grep-er with a set of selected high-potential strings that may result in (security) problems.
+- [drek](https://github.com/chrisallenlane/drek) : source code grep-er with nice HTML and PDF reports.
 - [DumpsterDiver](https://github.com/securing/DumpsterDiver) : search secrets based on entropy.
 - [Code-Crawler](https://github.com/vmnguyen/Code-Crawler) : automatic tool used for crawling code to find low-hanging fruits.
 
@@ -52,9 +53,18 @@ My personal collection of resources (mostly tools and training materials) for so
 
 - [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) : all-in-one mobile application (Android/iOS/Windows) pen-testing, malware  analysis and security assessment framework capable of performing static  and dynamic analysis.
 
-## Checklists
+## Lists
+
+### Vulnerability Checklists
 
 - [Michaela Greiler's checklist](https://github.com/mgreiler/secure-code-review-checklist)
 - [Aggregated checklist from various sources](https://github.com/softwaresecured/secure-code-review-checklist)
 - [OWASP's Code Review Checklist](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf#page=197)
 - [My own custom list based on the above resources](https://github.com/JulienBedel/security-code-review/blob/main/Security_Code_Review_Helper.xlsx)
+
+###  Interesting Keywords & Regex
+
+- [OWASP's Code Review Keywords List](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf#page=207)
+- [Collection of Regex in various languages](https://github.com/va1da5/manual-source-code-review)
+- [My own Keywords List](https://github.com/JulienBedel/security-code-review/tree/main/keywords)
+
