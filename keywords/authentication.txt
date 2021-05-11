@@ -1,0 +1,18 @@
+# session
+session
+login
+authenticate
+authentication
+authentificate
+authentification
+
+# passwords
+password
+passphrase
+passwd
+
+# user
+admin
+user
+username
+

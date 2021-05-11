@@ -1,0 +1,23 @@
+# features
+upload
+download
+
+# memory
+buffer
+unsafe
+
+# sql
+sql
+mysqli
+
+# php
+exec
+passthru
+system
+shell_exec
+popen
+proc_open
+pcntl_exec
+file_include
+file_get_contents
+include
