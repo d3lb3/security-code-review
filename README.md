@@ -43,6 +43,7 @@ My personal collection of resources (mostly tools and training materials) for so
 
 ### Grep-based Tools
 
+- [megagrep](https://github.com/claire-lex/megagrep) : find interesting parts of the code to manually check based on keywords. Comes with additional features such as per-file statistics or dev comments search.
 - [graudit](https://github.com/wireghoul/graudit) : find very specific vulnerabilities based on regular expressions, a lot of false negatives but can be extended with your own regexs.
 - [crass](https://github.com/floyd-fuh/crass) : source code grep-er with a set of selected high-potential strings that may result in (security) problems.
 - [drek](https://github.com/chrisallenlane/drek) : source code grep-er with nice HTML and PDF reports.
