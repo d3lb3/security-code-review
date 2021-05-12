@@ -10,8 +10,10 @@ My personal collection of resources (mostly tools and training materials) for so
   * [Static Application Security Testing (SAST) Tools](#static-application-security-testing-sast-tools)
   * [Grep-based Tools](#grep-based-tools)
   * [Frameworks](#frameworks)
-* [**Checklists**](#checklists)
-
+* [**Lists**](#lists)
+  * [Vulnerability Checklists](#vulnerability-checklists)
+  * [Interesting Keywords &amp; Regex](#interesting-keywords--regex)
+ 
 ## Training Materials
 
 ### Learning Resources
