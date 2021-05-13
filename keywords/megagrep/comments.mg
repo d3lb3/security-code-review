@@ -1,3 +1,4 @@
+[comments]
 bug
 fixme
 issue
