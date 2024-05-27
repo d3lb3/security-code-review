@@ -42,6 +42,9 @@ My personal collection of resources (mostly tools and training materials) for so
 - [OWASP's Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools)
 - [A curated list of static analysis tools and tools and config files (GitHub)](https://github.com/analysis-tools-dev/static-analysis)
 - [Static Application Security Testing Suites used in GitLab's CI/CD](https://docs.gitlab.com/ee/user/application_security/sast/)
+- [grepmarx -  A source code static analysis platform for AppSec enthusiasts](https://github.com/Orange-Cyberdefense/grepmarx)
+- [Joern - Generate queriable code property graphs](https://joern.io/)
+- [Sourcetrail - open-source interactive source explorer](https://github.com/OpenSourceSourceTrail/Sourcetrail)
 
 ### Grep-based Tools
 
