@@ -22,11 +22,14 @@ My personal collection of resources (mostly tools and training materials) for so
 - [[Conference] OWASP Appsec Day - The Absolute AppSec Secure Code Review Framework](https://www.youtube.com/watch?v=Kepd1HsoE8o) : strong focus on methodology.
 - [[Conference] Source code security audit speed run by Eldar Marcussen](https://www.youtube.com/watch?v=hpYjjj1UAXs) : methodology and tooling.
 - [[Guide] OWASP Code Review Guide (currently v2)](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf) : (almost) exhaustive guide on secure code review.
+- [[Exercise] PentesterLab Free Course On PHP Security Code Review](https://pentesterlab.com/exercises/codereview): course with an application to practice on
 
 ### Learning Platforms
 
 - [OWASP's Secure Coding Dojo Example](https://owasp.org/SecureCodingDojo/codereview101)
 - [Secure Code Warrior](https://www.securecodewarrior.com/products/training-ground) (paid service with free trial)
+- [PentesterLab](https://pentesterlab.com/) (paid service with sections dedicated to source code review)
+
 
 ### Vulnerable Apps
 
