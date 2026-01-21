@@ -27,6 +27,7 @@ My personal collection of resources (mostly tools and training materials) for so
 
 - [OWASP's Secure Coding Dojo Example](https://owasp.org/SecureCodingDojo/codereview101)
 - [Secure Code Warrior](https://www.securecodewarrior.com/products/training-ground) (paid service with free trial)
+- [Code Review Lab](https://www.codereviewlab.com/) (freemium model)
 
 ### Vulnerable Apps
 
